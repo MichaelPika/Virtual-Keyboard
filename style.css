@@ -11,7 +11,7 @@
 }
 
 .keyboard--hidden {
-  bottom: -100%;
+  /* bottom: -100%;  тут скрывает */
 }
 
 .keyboard__keys {
